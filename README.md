@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Joao Victor Lima!
 - 💼 Trabalho com Suporte Técnico / Service Desk e estou em processo de transição de carreira para a área de Dev/Dados
-- 📘 Atualmente estou estudando front-end (HTML, CSS, Javascript) e Python.
+- 📘 Atualmente estou estudando Data Science e desenvolvimento front-end (HTML, CSS, Javascript).
 - 💻 Busco uma posição de estágio em qualquer dessas áreas para entrar no mercado.
 
 #### Me encontre em:
