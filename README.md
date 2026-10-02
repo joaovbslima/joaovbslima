@@ -1,14 +1,31 @@
-# 👋 Olá! Eu sou Joao Victor Lima!
-- 💼 Experiência com Suporte Técnico / Service Desk e estou em processo de transição de carreira para a área de Dev/Dados
-- 📘 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, estudando Data Science e desenvolvimento web (com foco em HTML, CSS, Javascript e PHP).
-- 💻 Busco uma posição de estágio em qualquer dessas áreas para entrar no mercado.
+# 👋 Olá! Eu sou João Victor Lima
 
-#### Me encontre em:
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaovbslima@gmail.com)
-[![Linbkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovbslima/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joaovbslima)
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente direciono meus estudos para **desenvolvimento Front-End**.
 
-<!---
-joaovbslima/joaovbslima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tenho experiência profissional anterior com **Suporte Técnico / Service Desk**, o que me ajudou a desenvolver uma boa base em resolução de problemas, atendimento a usuários e análise de situações técnicas.
+
+Atualmente estudo e pratico:
+
+- 💻 HTML
+- 🎨 CSS
+- ⚙️ JavaScript
+- 🌿 Git e GitHub
+- 🐍 Python
+
+Também venho desenvolvendo projetos acadêmicos e pessoais para aplicar o que estou aprendendo e evoluir gradualmente em desenvolvimento web.
+
+No momento, busco minha primeira oportunidade como **estagiário ou desenvolvedor Front-End Júnior**.
+
+## 🚀 Projeto em destaque:
+
+### CineWave
+Projeto web de catálogo de filmes e séries, desenvolvido inicialmente como trabalho acadêmico e expandido como projeto pessoal de estudo.
+
+O projeto está em desenvolvimento contínuo e vem sendo utilizado para aprofundar conhecimentos em HTML, CSS, JavaScript, versionamento com Git e organização de interfaces.
+
+🔗 Repositório: [CineWave](https://github.com/joaovbslima/cinewave)
+
+## 📫 Me encontre em
+
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:joaovbslima@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovbslima/)
