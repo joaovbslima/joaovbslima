@@ -4,7 +4,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente direcio
 
 Tenho experiência profissional anterior com **Suporte Técnico / Service Desk**, o que me ajudou a desenvolver uma boa base em resolução de problemas, atendimento a usuários e análise de situações técnicas.
 
-Atualmente estudo e pratico:
+Também venho desenvolvendo projetos acadêmicos e pessoais para aplicar o que estou aprendendo e evoluir gradualmente em desenvolvimento web.
+
+No momento, busco minha primeira oportunidade como **estagiário ou desenvolvedor Front-End Júnior**.
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -15,10 +17,6 @@ Atualmente estudo e pratico:
 ![GitHub](https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00C853?style=for-the-badge&logo=python&logoColor=white)
 
-Também venho desenvolvendo projetos acadêmicos e pessoais para aplicar o que estou aprendendo e evoluir gradualmente em desenvolvimento web.
-
-No momento, busco minha primeira oportunidade como **estagiário ou desenvolvedor Front-End Júnior**.
-
 ## 🚀 Projetos em destaque
 
 ### CineWave
@@ -27,7 +25,7 @@ Projeto web de catálogo de filmes e séries, desenvolvido inicialmente como tra
 
 O projeto está em desenvolvimento contínuo e vem sendo utilizado para aprofundar conhecimentos em HTML, CSS, Git, GitHub e organização de interfaces.
 
-🔗 Repositório: [CineWave](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO)
+🔗 [Acessar repositório do CineWave](https://github.com/joaovbslima/cinewave)
 
 ## 📫 Me encontre em
 
