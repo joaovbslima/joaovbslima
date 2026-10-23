@@ -1,7 +1,5 @@
 # 👋 Olá! Eu sou João Victor Lima
 
-# 👋 Olá! Eu sou João Victor Lima
-
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente direciono meus estudos para **desenvolvimento de software**, com interesse em **Front-End, JavaScript, Python, dados, automação e soluções com IA**.
 
 Tenho experiência profissional anterior com **Suporte Técnico / Service Desk**, o que contribuiu para desenvolver uma base sólida em resolução de problemas, atendimento a usuários, análise de situações técnicas e suporte a ambientes de tecnologia.
