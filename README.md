@@ -1,45 +1,45 @@
 # 👋 Olá! Eu sou João Victor Lima
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente direciono meus estudos para **desenvolvimento de software**, com interesse em **Front-End, JavaScript, Python, dados, automação e soluções com IA**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória em **desenvolvimento de software**, com foco em desenvolvimento web e interesse em **JavaScript, Python, bancos de dados, automação e aplicações de IA**.
 
-Tenho experiência profissional anterior com **Suporte Técnico / Service Desk**, o que contribuiu para desenvolver uma base sólida em resolução de problemas, atendimento a usuários, análise de situações técnicas e suporte a ambientes de tecnologia.
+Antes de direcionar meus estudos para desenvolvimento, atuei com **Suporte Técnico / Service Desk**, experiência que fortaleceu minha capacidade de investigar problemas, trabalhar com sistemas, documentar soluções e me comunicar com usuários e equipes.
 
-Também venho desenvolvendo projetos acadêmicos e pessoais para aplicar o que estou aprendendo e evoluir gradualmente em desenvolvimento de software.
-
-No momento, busco minha primeira oportunidade em **desenvolvimento de software e tecnologia**, em posições de **estágio ou nível júnior**.
+Hoje aplico o que aprendo em projetos acadêmicos e pessoais, evoluindo desde a interface até o consumo de APIs e a persistência de dados. Busco uma oportunidade de **estágio ou desenvolvimento júnior** para continuar aprendendo e contribuir em projetos reais.
 
 ## 🛠️ Tecnologias e ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-00C853?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-00C853?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00C853?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-00C853?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00C853?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00C853?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-00C853?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white)
 
+> **Em evolução:** aprofundo meus conhecimentos em JavaScript, PHP, SQL e Python, com atenção à organização do código, integração entre sistemas e resolução de problemas.
 
 ## 🚀 Projetos em destaque
 
-### CineWave
+### 🎬 CineWave
 
-Projeto web de catálogo de filmes e séries, desenvolvido inicialmente como trabalho acadêmico e expandido como projeto pessoal de estudo e portfólio.
+Catálogo web de filmes e séries que começou como trabalho acadêmico e se tornou meu principal projeto pessoal de aprendizado e portfólio.
 
-O projeto está em desenvolvimento contínuo e atualmente utiliza **HTML, CSS e JavaScript**, com aplicação de conceitos como:
+Desenvolvido **sem frameworks nesta etapa**, o CineWave combina **HTML, CSS, JavaScript, PHP e MySQL**, utilizando a **API do TMDB** como fonte de dados de filmes.
 
-- modelagem de dados com classes e objetos;
-- manipulação do DOM;
-- geração dinâmica de cards;
-- uso de arrays e métodos de arrays;
-- ordenação de conteúdos por diferentes critérios;
-- criação de funções reutilizáveis;
-- slideshow interativo;
-- responsividade em evolução.
+**O que já venho implementando:**
 
-As próximas etapas incluem a integração com a **API do TMDB**, desenvolvimento das demais páginas da aplicação e posterior evolução com **PHP**.
+- interfaces e componentes com **HTML semântico, CSS Grid e Flexbox**, com responsividade em evolução;
+- **cards gerados dinamicamente** com JavaScript, classes, objetos e manipulação do DOM;
+- **slideshow interativo** e ordenação de filmes por diferentes critérios;
+- consumo assíncrono de dados com **Fetch API, Promises e `async/await`**;
+- **endpoints em PHP** para comunicação com a TMDB, incluindo requisições com cURL e tratamento de respostas JSON;
+- **conexão com MySQL via PDO** e rotina de sincronização de dados de filmes com o banco.
+
+**Próximos passos:** ampliar a integração das páginas e do slideshow com os dados externos, utilizar os registros persistidos no catálogo e evoluir as funcionalidades de busca, detalhes e lista pessoal.
 
 🔗 [Acessar repositório do CineWave](https://github.com/joaovbslima/cinewave)
 
-🌐 [Visualizar CineWave](https://joaovbslima.github.io/cinewave/)
 
 ## 📫 Me encontre em
 
